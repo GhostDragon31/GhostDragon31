@@ -4,7 +4,7 @@
 
 ###
 
-<p data-importer="text" align="left">While refreshing my memory on how to code, I decided I want to try and create my own dice console app.<br><br>I didn't want it to be a standard dice roller either, so I decided to make a dice roller that rolls all the dice used in Dungeons and Dragons. From D6s to D20s with advantage or disadvantage. Here are my iterations of the project from humble beginnings to my most recent version.<br><br>(Also, I am aware that FizzBuzz has an extra 'z'; do not question the power of FizzBuzz 😀)</p>
+<p data-importer="text" align="left">While refreshing my memory on how to code, I decided I want to try and create my own dice console app.<br><br>I didn't want it to be a standard dice roller either, so I decided to make a dice roller that rolls all the dice used in Dungeons and Dragons. From D6s to D20s with advantage or disadvantage. Here are my iterations of the project from humble beginnings to my most recent version.<br><br>(Also, I am aware that FizzBuzz has an extra 'z'; do not question the power of FizzBuzz 😂)</p>
 
 ###
 
