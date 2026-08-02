@@ -4,10 +4,6 @@
 
 ###
 
-<h2 data-importer="text" align="left"></h2>
-
-###
-
 <p data-importer="text" align="left">These are projects I made while following online learning platforms such as Microsoft Learn, FreenCodeCamp and<br>YouTube tutorials. I've listed my favourite coding exercises here!</p>
 
 ###
@@ -15,9 +11,5 @@
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
 </div>
-
-###
-
-<h2 data-importer="text" align="left"></h2>
 
 ###
