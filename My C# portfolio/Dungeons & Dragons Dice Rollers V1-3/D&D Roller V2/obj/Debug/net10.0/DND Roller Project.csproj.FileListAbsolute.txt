@@ -1,0 +1,15 @@
+C:\Users\lhisc\Documents\GitHub\GhostDragon31.github.io\DND Roller Project\bin\Debug\net10.0\DND Roller Project.exe
+C:\Users\lhisc\Documents\GitHub\GhostDragon31.github.io\DND Roller Project\bin\Debug\net10.0\DND Roller Project.deps.json
+C:\Users\lhisc\Documents\GitHub\GhostDragon31.github.io\DND Roller Project\bin\Debug\net10.0\DND Roller Project.runtimeconfig.json
+C:\Users\lhisc\Documents\GitHub\GhostDragon31.github.io\DND Roller Project\bin\Debug\net10.0\DND Roller Project.dll
+C:\Users\lhisc\Documents\GitHub\GhostDragon31.github.io\DND Roller Project\bin\Debug\net10.0\DND Roller Project.pdb
+C:\Users\lhisc\Documents\GitHub\GhostDragon31.github.io\DND Roller Project\obj\Debug\net10.0\DND Roller Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lhisc\Documents\GitHub\GhostDragon31.github.io\DND Roller Project\obj\Debug\net10.0\DND Roller Project.AssemblyInfoInputs.cache
+C:\Users\lhisc\Documents\GitHub\GhostDragon31.github.io\DND Roller Project\obj\Debug\net10.0\DND Roller Project.AssemblyInfo.cs
+C:\Users\lhisc\Documents\GitHub\GhostDragon31.github.io\DND Roller Project\obj\Debug\net10.0\DND Roller Project.csproj.CoreCompileInputs.cache
+C:\Users\lhisc\Documents\GitHub\GhostDragon31.github.io\DND Roller Project\obj\Debug\net10.0\DND Roller Project.sourcelink.json
+C:\Users\lhisc\Documents\GitHub\GhostDragon31.github.io\DND Roller Project\obj\Debug\net10.0\DND Roller Project.dll
+C:\Users\lhisc\Documents\GitHub\GhostDragon31.github.io\DND Roller Project\obj\Debug\net10.0\refint\DND Roller Project.dll
+C:\Users\lhisc\Documents\GitHub\GhostDragon31.github.io\DND Roller Project\obj\Debug\net10.0\DND Roller Project.pdb
+C:\Users\lhisc\Documents\GitHub\GhostDragon31.github.io\DND Roller Project\obj\Debug\net10.0\DND Roller Project.genruntimeconfig.cache
+C:\Users\lhisc\Documents\GitHub\GhostDragon31.github.io\DND Roller Project\obj\Debug\net10.0\ref\DND Roller Project.dll

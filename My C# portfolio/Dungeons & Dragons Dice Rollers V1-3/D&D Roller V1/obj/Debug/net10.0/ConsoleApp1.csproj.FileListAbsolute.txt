@@ -1,0 +1,15 @@
+C:\Users\lhisc\Documents\GitHub\GhostDragon31.github.io\Random Dice Gen\bin\Debug\net10.0\ConsoleApp1.exe
+C:\Users\lhisc\Documents\GitHub\GhostDragon31.github.io\Random Dice Gen\bin\Debug\net10.0\ConsoleApp1.deps.json
+C:\Users\lhisc\Documents\GitHub\GhostDragon31.github.io\Random Dice Gen\bin\Debug\net10.0\ConsoleApp1.runtimeconfig.json
+C:\Users\lhisc\Documents\GitHub\GhostDragon31.github.io\Random Dice Gen\bin\Debug\net10.0\ConsoleApp1.dll
+C:\Users\lhisc\Documents\GitHub\GhostDragon31.github.io\Random Dice Gen\bin\Debug\net10.0\ConsoleApp1.pdb
+C:\Users\lhisc\Documents\GitHub\GhostDragon31.github.io\Random Dice Gen\obj\Debug\net10.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lhisc\Documents\GitHub\GhostDragon31.github.io\Random Dice Gen\obj\Debug\net10.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\lhisc\Documents\GitHub\GhostDragon31.github.io\Random Dice Gen\obj\Debug\net10.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\lhisc\Documents\GitHub\GhostDragon31.github.io\Random Dice Gen\obj\Debug\net10.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\lhisc\Documents\GitHub\GhostDragon31.github.io\Random Dice Gen\obj\Debug\net10.0\ConsoleApp1.sourcelink.json
+C:\Users\lhisc\Documents\GitHub\GhostDragon31.github.io\Random Dice Gen\obj\Debug\net10.0\ConsoleApp1.dll
+C:\Users\lhisc\Documents\GitHub\GhostDragon31.github.io\Random Dice Gen\obj\Debug\net10.0\refint\ConsoleApp1.dll
+C:\Users\lhisc\Documents\GitHub\GhostDragon31.github.io\Random Dice Gen\obj\Debug\net10.0\ConsoleApp1.pdb
+C:\Users\lhisc\Documents\GitHub\GhostDragon31.github.io\Random Dice Gen\obj\Debug\net10.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\lhisc\Documents\GitHub\GhostDragon31.github.io\Random Dice Gen\obj\Debug\net10.0\ref\ConsoleApp1.dll

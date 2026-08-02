@@ -1,0 +1,15 @@
+C:\Users\lhisc\Documents\GitHub\GhostDragon31.github.io\D&D Roller V3\bin\Debug\net10.0\D&D Roller V3.exe
+C:\Users\lhisc\Documents\GitHub\GhostDragon31.github.io\D&D Roller V3\bin\Debug\net10.0\D&D Roller V3.deps.json
+C:\Users\lhisc\Documents\GitHub\GhostDragon31.github.io\D&D Roller V3\bin\Debug\net10.0\D&D Roller V3.runtimeconfig.json
+C:\Users\lhisc\Documents\GitHub\GhostDragon31.github.io\D&D Roller V3\bin\Debug\net10.0\D&D Roller V3.dll
+C:\Users\lhisc\Documents\GitHub\GhostDragon31.github.io\D&D Roller V3\bin\Debug\net10.0\D&D Roller V3.pdb
+C:\Users\lhisc\Documents\GitHub\GhostDragon31.github.io\D&D Roller V3\obj\Debug\net10.0\D&D Roller V3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lhisc\Documents\GitHub\GhostDragon31.github.io\D&D Roller V3\obj\Debug\net10.0\D&D Roller V3.AssemblyInfoInputs.cache
+C:\Users\lhisc\Documents\GitHub\GhostDragon31.github.io\D&D Roller V3\obj\Debug\net10.0\D&D Roller V3.AssemblyInfo.cs
+C:\Users\lhisc\Documents\GitHub\GhostDragon31.github.io\D&D Roller V3\obj\Debug\net10.0\D&D Roller V3.csproj.CoreCompileInputs.cache
+C:\Users\lhisc\Documents\GitHub\GhostDragon31.github.io\D&D Roller V3\obj\Debug\net10.0\D&D Roller V3.sourcelink.json
+C:\Users\lhisc\Documents\GitHub\GhostDragon31.github.io\D&D Roller V3\obj\Debug\net10.0\D&D Roller V3.dll
+C:\Users\lhisc\Documents\GitHub\GhostDragon31.github.io\D&D Roller V3\obj\Debug\net10.0\refint\D&D Roller V3.dll
+C:\Users\lhisc\Documents\GitHub\GhostDragon31.github.io\D&D Roller V3\obj\Debug\net10.0\D&D Roller V3.pdb
+C:\Users\lhisc\Documents\GitHub\GhostDragon31.github.io\D&D Roller V3\obj\Debug\net10.0\D&D Roller V3.genruntimeconfig.cache
+C:\Users\lhisc\Documents\GitHub\GhostDragon31.github.io\D&D Roller V3\obj\Debug\net10.0\ref\D&D Roller V3.dll
