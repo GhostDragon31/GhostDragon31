@@ -1,0 +1,41 @@
+<!--This webs application was created based off a prompt I generated which was:
+'Create a random company name generator'
+Being the first generator I've ever created, i looked up a YouTube tutorial to get the basics,
+then adapted the template to complete the prompt.
+
+tutorial and application base credits to: Gray. (link: https://www.youtube.com/watch?v=dAdIQrk0WMk)
+Image from Unsplash: Billy Huynh (link: https://unsplash.com/photos/blue-skies-filled-of-stars-W8KTS-mhFUE)-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Random Name Generator</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.3.0/css/all.min.css" integrity="sha512-ApSLB1Pd3/bZN8fWB/RG9YhN/7bd9Hkf3AGaE2mPfebjrxagjuBtx2GcgdqIlJkUzwylBo61r9Xa9NmgBI0swA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="css/main.css">
+    <script src="js/main.js" type="module"></script>
+</head>
+<body>
+    <header>
+        <i class="fa-solid fa-building"></i>
+        <h1>Company Name Random Generator</h1>
+    </header>
+
+    <main>
+        <section class="submitSection">
+            <h2 id="formHeading" class="offscreen">Generate a Random Name Button</h2>
+            <form id="submitForm" class="submitSection__form">
+                <button class="submitSection__button" aria-label="Submit">
+                    Generate Some Names!
+                </button>
+            </form>
+        </section>
+        <section id="suggestionSection" class="suggestionSection hidden">
+            <h2>Suggestions:</h2>
+            <ol></ol>
+            <p>YMMV: Click the name to see if it is already taken.</p>
+        </section>
+    </main>
+</body>
+</html>
