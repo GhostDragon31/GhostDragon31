@@ -1,0 +1,29 @@
+﻿a {
+    text-decoration: none;
+}
+
+a:link {
+    color: darkorange;
+}
+
+a:active {
+    color: yellow;
+}
+
+a:visited {
+    color: green;
+}
+
+a:hover {
+    color: hotpink;
+}
+
+a:focus {
+    outline: solid;
+    outline-color: orangered;
+    outline-width: 2px;
+}
+
+* {
+    font-family: Arial, sans-serif;
+}
