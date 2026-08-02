@@ -12,7 +12,7 @@
 
 ###
 
-<p data-importer="text" align="left">✨ Creating bugs since 1999<br>📚 I'm currently learning: C#, JavaScript and Python<br>🎯 Main goal: to become a junior software developer<br>Side quests:<br>Become a better programmer<br>Build a strong portfolio<br>🎲 Fun fact: I love making art and enjoy video editing</p>
+<p data-importer="text" align="left">📚 I'm currently learning: C#, JavaScript and Python<br>🎯 Main goal: to become a junior software developer<br>Side quests:<br>Become a better programmer<br>Build a strong portfolio<br>🎲 Fun fact: I love making art and enjoy video editing</p>
 
 ###
 
