@@ -8,7 +8,7 @@
 
 ###
 
-<p data-importer="text" align="left">These are projects I made while following online learning platforms such as Microsoft Learn, FreenCodeCamp and YouTube tutorials. I've listed my favourite coding exercises here!</p>
+<p data-importer="text" align="left">These are projects I made while following online learning platforms such as Microsoft Learn, FreenCodeCamp and<br>YouTube tutorials. I've listed my favourite coding exercises here!</p>
 
 ###
 
