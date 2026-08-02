@@ -4,7 +4,7 @@
 
 ###
 
-<p data-importer="text" align="left">When I want to try and create soemthing on my own (without following an online class) or when I want to learn how to do soemthing new. I generate myself a random coding prompt online and set out how to create that prompt.<br><br>If it's something new, I try to include credit when I followed a tutorial, especially if I use that as a template to help me code. Usually these credits will appear in comments in the main file or web application home page, with a link to the original tutorial so you can check it out yourself as well!</p>
+<p data-importer="text" align="left">When I want to try and create on my own (without following an online class) or when I want to learn how to do something new. I generate myself a random coding prompt online and set out how to create that prompt.<br><br>If it's something new, I try to include credit when I followed a tutorial, especially if I use that as a template to help me code. Usually these credits will appear in comments in the main file or web application home page, with a link to the original tutorial so you can check it out yourself as well!</p>
 
 ###
 
