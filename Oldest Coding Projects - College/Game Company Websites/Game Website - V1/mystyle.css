@@ -1,0 +1,129 @@
+/* Paragraph styles */
+.p1 {
+	margin-left: 300px;
+   	padding-left: 20px;
+	color: white;
+	font-size: 20px;
+	font-family: Calibri;
+
+}
+
+.p2 {
+	margin-left: 300px;
+   	padding-left: 20px;
+	color: white;
+	font-weight: bold;
+	text-decoration: italics;
+	font-size: 20px;
+	font-family: Calibri;
+}
+
+/* Footer style */
+.F1 {
+	margin-left: 200px;
+   	padding-left: 20px;
+	color: white;
+	font-size: 20px;
+
+}
+
+/* main heading style */
+.header {
+    background-color: #333333;
+    color: white;
+    font-size: 30px;
+    font-family:ConcursoModerne BTN Lt;
+    font-weight: Bold;
+    text-align: center;
+    padding: 35px;
+    margin-left: 200px;
+    padding-left: 20px;
+}
+
+.header2 {
+
+    color: red;
+}
+/* heading Style */
+h3 {
+	font-size: 30px;
+	color: white;
+	font-weight: bold;
+	font-family: Calibri;
+	text-align: center;
+        margin-left: 300px;
+        padding-left: 20px;
+        width: 600px;
+        border: 15px solid #00ffff;
+	padding: 10px;
+}
+
+h4 {
+	margin-left: 300px;
+   	padding-left: 20px;
+	color: white;
+	font-size: 30px;
+	font-family: Calibri;
+}
+
+h5 {
+	margin-left: 400px;
+   	padding-left: 20px;
+	color: white;
+	font-size: 30px;
+	font-family: Calibri;
+}
+/* Style the content */
+.content {
+    color: black;
+    margin-left: 200px;
+    padding-left: 20px;
+}
+
+/* Style the footer */
+.footer {
+    background-color: #333333;
+    padding: 5px;
+    font-family: Calibri;
+}
+
+/* NAVIGATION BAR STYLE */
+/* Style the side navigation */
+.sidenav {
+    height: 100%;
+    width: 200px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #111;
+    overflow-x: hidden;
+}
+
+
+/* Side navigation links */
+.sidenav a {
+    color: white;
+    font-family: Calibri;
+    padding: 16px;
+    text-decoration: none;
+    display: block;
+}
+
+/* Change color on hover */
+.sidenav a:hover {
+    background-color: #ddd;
+    color: black;
+    font-family: Calibri;
+}
+
+/* ON that web page */
+.sidenav b {
+    color: black;
+    background-color: #ddd;
+    padding: 25px;
+    text-decoration: none;
+    display: block;
+    font-family: Calibri;
+}
+

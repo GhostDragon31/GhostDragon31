@@ -1,0 +1,69 @@
+/* Paragraph styles */
+.p1 {
+	margin-left: 300px;
+   	padding-left: 20px;
+	color: white;
+	font-size: 20px;
+	font-family: Calibri;
+
+}
+
+.p2 {
+	margin-left: 300px;
+   	padding-left: 20px;
+	color: white;
+	font-weight: bold;
+	text-decoration: italics;
+	font-size: 20px;
+	font-family: Calibri;
+}
+
+/* Footer style */
+.F1 {
+	margin-left: 200px;
+   	padding-left: 20px;
+	color: white;
+	font-size: 20px;
+
+}
+
+/* main heading style */
+.header {
+    background-color: #333333;
+    color: white;
+    font-size: 30px;
+    font-family:ConcursoModerne BTN Lt;
+    font-weight: Bold;
+    text-align: center;
+    padding: 35px;
+    margin-left: 200px;
+    padding-left: 20px;
+}
+
+/* heading Style */
+h3 {
+	font-size: 30px;
+	color: white;
+	font-weight: bold;
+	font-family: Calibri;
+	text-align: center;
+        margin-left: 300px;
+        padding-left: 20px;
+        width: 600px;
+        border: 15px solid #001a09;
+	padding: 10px;
+}
+
+/* Style the content */
+.content {
+    color: white;
+    margin-left: 200px;
+    padding-left: 20px;
+}
+
+/* Style the footer */
+.footer {
+    background-color: #333333;
+    padding: 5px;
+    font-family: Calibri;
+}
