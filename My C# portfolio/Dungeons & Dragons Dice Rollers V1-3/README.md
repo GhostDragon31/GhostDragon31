@@ -1,5 +1,5 @@
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&desc=Dungeons%20and%20Dragons%20Dice%20Rollers%20V1-3&descSize=25&descAlign=29&descAlignY=75&textBg=false&color=42f5f2"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&desc=Dungeons%20and%20Dragons%20Dice%20Rollers%20V1-3&descSize=25&descAlign=27&descAlignY=75&textBg=false&color=42f5f2"  />
 </div>
 
 ###
